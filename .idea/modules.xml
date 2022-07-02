@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator.iml" filepath="$PROJECT_DIR$/bmicalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator_day22/bmicalculator_day22.iml" filepath="$PROJECT_DIR$/bmicalculator_day22/bmicalculator_day22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator_day22/android/bmicalculator_day22_android.iml" filepath="$PROJECT_DIR$/bmicalculator_day22/android/bmicalculator_day22_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator_day22/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/bmicalculator_day22/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bmicalculator_day22/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/bmicalculator_day22/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>
